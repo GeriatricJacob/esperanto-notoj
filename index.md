@@ -138,3 +138,5 @@ _Mi manĝas bona**jn** kuko**jn**._
 I am eating good cakes.  
 _Mi vidas la bela**jn** virino**jn**._  
 I see the beautiful women.
+
+> Source available [Here](https://github.com/Towtow10/esperanto-notoj).
