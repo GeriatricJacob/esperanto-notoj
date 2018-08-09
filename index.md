@@ -73,7 +73,7 @@ In Esperanto, all singular nouns end in "o," regardless of gender, and all plura
 
 `-ebl-` is a a suffix meaning "possible" like -able in English e.g. `kredebla` meaning believable from `kredi` meaning believe, may also be used standalone as `eble` meaning `possibly`
 
-`mis-` is a prefix meaning "awry" e.g. `mismeti` meaning `to misplace` from `loki` meaning `place`
+`mis-` is a prefix meaning "awry" e.g. `mismeti` meaning `to misplace` from `meti` meaning `to place`
 
 These are but a few common of the many affixes in Esperanto, many more can be found [here](https://en.wikibooks.org/wiki/Esperanto/Appendix/Table_of_affixes).
 
