@@ -4,6 +4,7 @@ Some notes on Esperanto gathered from various corners of the internet.
 ## Alphabet
 The Esperanto alphabet is based on the English alphabet, it includes all 26 bar Q, W, X and Y. It also includes ĉ, ĝ, ĥ, ĵ , ŝ and ŭ.
 ### Pronunciation
+Each letter has a unique and separate sound. For example: _longa_ is pronounced "lon-ga". Both _k_ and _n_ are pronounced in _knabo_.
 
 Here are approximate English vowel equivalents:
 
